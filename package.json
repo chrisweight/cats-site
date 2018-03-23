@@ -1,0 +1,22 @@
+{
+  "name": "cats-client-site",
+  "version": "1.0.0",
+  "description": "bringing it all together",
+  "main": "./src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel ./src/index.html"
+  },
+  "keywords": [
+    "cats",
+    "site"
+  ],
+  "author": "CatRUs",
+  "license": "ISC",
+  "dependencies": {
+    "@cats/components": "~0.4.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "1.6.2"
+  }
+}
