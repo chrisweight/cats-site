@@ -4,8 +4,8 @@
   "description": "bringing it all together",
   "main": "./dist/index.html",
   "scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"lint": "eslint ./src/**/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./src/**/*.js",
     "build": "parcel ./src/index.html"
   },
   "keywords": [
@@ -18,7 +18,7 @@
     "@cats/components": "~0.4.3"
   },
   "devDependencies": {
-		"eslint": "4.19.1",
+    "eslint": "4.19.1",
     "parcel-bundler": "1.6.2"
   }
 }
