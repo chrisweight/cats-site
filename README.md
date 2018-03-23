@@ -2,4 +2,9 @@
 
 Where everything comes together nicely!
 
-(Hopefully)
+```
+npm install
+npm run build
+```
+
+Browse [here](http://localhost:1234) to view the wonders!
