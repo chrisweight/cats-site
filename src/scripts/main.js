@@ -1,1 +1,1 @@
-import '@cats/components';
+import '@cats/components'
